@@ -1,0 +1,114 @@
+produce_name,category,season,is_available,price_per_unit,vendor
+Tomato,Vegetable,All-Year,True,47,Healthy Pulses
+Potato,Vegetable,All-Year,True,116,Dairy Delights
+Onion,Vegetable,All-Year,False,0,Green Farms
+Carrot,Vegetable,All-Year,True,31,Dairy Delights
+Spinach (Palak),Vegetable,All-Year,True,137,Healthy Pulses
+Cauliflower (Gobi),Vegetable,All-Year,True,63,Fresh Veggies
+Cabbage (Patta Gobi),Vegetable,All-Year,True,45,Healthy Pulses
+Cucumber (Kheera),Vegetable,All-Year,True,102,Green Farms
+Bell Pepper (Shimla Mirch),Vegetable,All-Year,True,141,Punjab Grains Co.
+Okra (Bhindi),Vegetable,All-Year,True,112,Dairy Delights
+Bottle Gourd (Lauki),Vegetable,All-Year,True,146,Dairy Delights
+Brinjal (Baingan),Vegetable,All-Year,False,0,Dairy Delights
+Ginger (Adrak),Vegetable,All-Year,True,72,Healthy Pulses
+Garlic (Lehsun),Vegetable,All-Year,True,79,Green Farms
+Green Chilli (Hari Mirch),Vegetable,All-Year,False,0,Organic Roots
+Radish (Mooli),Vegetable,All-Year,False,0,Green Farms
+Peas (Matar),Vegetable,All-Year,True,138,Village Fresh
+Pumpkin (Kaddu),Vegetable,All-Year,True,55,Village Fresh
+Bitter Gourd (Karela),Vegetable,All-Year,False,0,Organic Roots
+Beetroot,Vegetable,All-Year,False,0,Punjab Grains Co.
+Sweet Potato (Shakarkandi),Vegetable,All-Year,True,52,Fresh Veggies
+Broccoli,Vegetable,All-Year,False,0,Green Farms
+Zucchini,Vegetable,All-Year,True,142,Himalayan Organics
+Mushroom,Vegetable,All-Year,True,147,Green Farms
+French Beans,Vegetable,All-Year,True,122,Green Farms
+Ridge Gourd (Tori),Vegetable,All-Year,True,69,Fresh Veggies
+Tinda,Vegetable,All-Year,True,93,Punjab Grains Co.
+Corn,Vegetable,All-Year,True,141,Fresh Veggies
+Lettuce,Vegetable,All-Year,True,67,Healthy Pulses
+Leek,Vegetable,All-Year,True,118,Organic Roots
+Turnip (Shalgam),Vegetable,All-Year,False,0,Organic Roots
+Ash Gourd (Petha),Vegetable,All-Year,True,33,Ratnagiri Fruits
+Cluster Beans (Gawar),Vegetable,All-Year,False,0,Green Farms
+Celery,Vegetable,All-Year,True,102,Punjab Grains Co.
+Asparagus,Vegetable,All-Year,True,148,Green Farms
+Mango,Fruit,All-Year,True,136,Dairy Delights
+Apple,Fruit,All-Year,False,0,Ratnagiri Fruits
+Banana,Fruit,All-Year,True,224,Organic Roots
+Orange,Fruit,All-Year,True,136,Dairy Delights
+Watermelon,Fruit,All-Year,False,0,Punjab Grains Co.
+Grapes,Fruit,All-Year,True,96,Village Fresh
+Pomegranate,Fruit,All-Year,True,242,Organic Roots
+Guava,Fruit,All-Year,False,0,Fresh Veggies
+Papaya,Fruit,All-Year,True,233,Village Fresh
+Pineapple,Fruit,All-Year,True,233,Ratnagiri Fruits
+Lychee,Fruit,All-Year,True,177,Green Farms
+Muskmelon (Kharbuja),Fruit,All-Year,True,113,Dairy Delights
+Chikoo,Fruit,All-Year,True,145,Green Farms
+Kiwi,Fruit,All-Year,True,87,Organic Roots
+Strawberry,Fruit,All-Year,True,163,Village Fresh
+Cherry,Fruit,All-Year,False,0,Himalayan Organics
+Pear,Fruit,All-Year,True,115,Fresh Veggies
+Plum,Fruit,All-Year,True,240,Green Farms
+Blueberry,Fruit,All-Year,True,119,Ratnagiri Fruits
+Raspberry,Fruit,All-Year,True,154,Village Fresh
+Peach,Fruit,All-Year,False,0,Organic Roots
+Apricot,Fruit,All-Year,True,89,Healthy Pulses
+Fig (Anjeer),Fruit,All-Year,True,115,Dairy Delights
+Coconut,Fruit,All-Year,True,98,Dairy Delights
+Avocado,Fruit,All-Year,True,80,Punjab Grains Co.
+Toor Dal (Arhar),Pulse,All-Year,False,0,Village Fresh
+Chana Dal,Pulse,All-Year,True,136,Himalayan Organics
+Moong Dal,Pulse,All-Year,True,198,Ratnagiri Fruits
+Masoor Dal,Pulse,All-Year,True,149,Ratnagiri Fruits
+Urad Dal,Pulse,All-Year,True,190,Healthy Pulses
+Kidney Beans (Rajma),Pulse,All-Year,True,130,Fresh Veggies
+Chickpeas (Kabuli Chana),Pulse,All-Year,True,135,Organic Roots
+Black Eyed Peas (Lobia),Pulse,All-Year,False,0,Organic Roots
+Soya Beans,Pulse,All-Year,True,150,Organic Roots
+Horse Gram (Kulthi),Pulse,All-Year,True,142,Fresh Veggies
+Basmati Rice,Cereal,All-Year,True,118,Fresh Veggies
+Brown Rice,Cereal,All-Year,True,109,Punjab Grains Co.
+Wheat Flour (Atta),Cereal,All-Year,True,104,Organic Roots
+Millet (Bajra),Cereal,All-Year,True,136,Village Fresh
+Sorghum (Jowar),Cereal,All-Year,True,66,Punjab Grains Co.
+Oats,Cereal,All-Year,True,51,Organic Roots
+Quinoa,Cereal,All-Year,True,145,Dairy Delights
+Semolina (Suji),Cereal,All-Year,True,64,Himalayan Organics
+Barley (Jau),Cereal,All-Year,False,0,Green Farms
+Buckwheat (Kuttu),Cereal,All-Year,True,112,Dairy Delights
+Coriander Leaves (Dhania),Herb & Spice,All-Year,True,393,Healthy Pulses
+Mint Leaves (Pudina),Herb & Spice,All-Year,True,340,Green Farms
+Curry Leaves,Herb & Spice,All-Year,True,373,Punjab Grains Co.
+Turmeric (Haldi),Herb & Spice,All-Year,True,343,Healthy Pulses
+Cumin Seeds (Jeera),Herb & Spice,All-Year,True,483,Green Farms
+Mustard Seeds (Sarson),Herb & Spice,All-Year,False,0,Fresh Veggies
+Black Pepper (Kali Mirch),Herb & Spice,All-Year,True,453,Healthy Pulses
+Cinnamon (Dalchini),Herb & Spice,All-Year,True,404,Green Farms
+Cardamom (Elaichi),Herb & Spice,All-Year,True,229,Ratnagiri Fruits
+Cloves (Laung),Herb & Spice,All-Year,True,220,Dairy Delights
+Fenugreek Seeds (Methi Dana),Herb & Spice,All-Year,True,260,Fresh Veggies
+Bay Leaf,Herb & Spice,All-Year,True,166,Green Farms
+Asafoetida (Hing),Herb & Spice,All-Year,False,0,Himalayan Organics
+Saffron (Kesar),Herb & Spice,All-Year,True,270,Organic Roots
+Basil (Tulsi),Herb & Spice,All-Year,True,294,Punjab Grains Co.
+Peanuts,Nut & Seed,All-Year,True,535,Punjab Grains Co.
+Cashew Nuts,Nut & Seed,All-Year,True,418,Himalayan Organics
+Almonds,Nut & Seed,All-Year,False,0,Green Farms
+Walnuts,Nut & Seed,All-Year,False,0,Fresh Veggies
+Pistachios,Nut & Seed,All-Year,False,0,Ratnagiri Fruits
+Dates,Nut & Seed,All-Year,True,1001,Fresh Veggies
+Flax Seeds,Nut & Seed,All-Year,True,341,Himalayan Organics
+Sesame Seeds,Nut & Seed,All-Year,True,859,Organic Roots
+Sunflower Seeds,Nut & Seed,All-Year,True,195,Fresh Veggies
+Chia Seeds,Nut & Seed,All-Year,True,115,Ratnagiri Fruits
+Cow Milk,Dairy & Farm,All-Year,True,180,Ratnagiri Fruits
+Buffalo Milk,Dairy & Farm,All-Year,True,291,Ratnagiri Fruits
+Yogurt (Dahi),Dairy & Farm,All-Year,True,364,Healthy Pulses
+Paneer,Dairy & Farm,All-Year,True,624,Ratnagiri Fruits
+White Eggs,Dairy & Farm,All-Year,True,79,Village Fresh
+Brown Eggs,Dairy & Farm,All-Year,True,373,Organic Roots
+Ghee,Dairy & Farm,All-Year,False,0,Ratnagiri Fruits
+Butter,Dairy & Farm,All-Year,True,445,Punjab Grains Co.
